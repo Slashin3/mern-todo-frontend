@@ -12,14 +12,23 @@ BACKEND:
 2. Project Structure:
 
   mern-todo-backend/
+
   ├── controllers/
+
   │   └── todoController.js
+
   ├── models/
+
   │   └── Todo.js
+
   ├── routes/
+
   │   └── todoRoutes.js
+
   ├── .env
+
   ├── index.js
+
   └── package.json
 
 3. Clone both the repository (I do not know how to use 1 repository for both frontend and backend yet):
