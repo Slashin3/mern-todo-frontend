@@ -55,20 +55,34 @@ Built using react
 1. Project Structure
 
   mern-todo-frontend/
+
   ├── public/
+
   │   └── index.html
+
   ├── src/
+
   │   ├── components/
+
   │   │   └── TodoList.js
+
   │   ├── App.css
+
   │   ├── App.js
+
   │   ├── index.js
+
   ├── package.json
+
   └── .env
 
 2. Steps:
+
+
   cd mern-todo-frontend
+
   npm install
+
   npm start
 
 It will start on "localhost:3000"
