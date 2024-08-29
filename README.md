@@ -25,13 +25,19 @@ BACKEND:
 3. Clone both the repository (I do not know how to use 1 repository for both frontend and backend yet):
 
   git clone https://github.com/Slashin3/mern-todo-backend
+
   cd backend
 
 4. npm start
 
+
 5. Endpoints
+
+
 GET - api/todos
+
 POST - api/todos
+
 DELETE - api/todos:id
 
 FRONTEND:
