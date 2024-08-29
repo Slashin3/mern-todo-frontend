@@ -2,6 +2,11 @@
 
 Documentation for mern-todo-app:
 
+Deployed link using vercel : https://mern-todo-frontend-beige.vercel.app
+
+Can run backend on a local machine and connect mongoDB to localhost : 'mongodb://localhost:27017/todoDB' and it runs successfully
+
+
 BACKEND:
 
 1. Need to have:
